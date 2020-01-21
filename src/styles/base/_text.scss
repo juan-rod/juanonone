@@ -17,7 +17,7 @@ font-family: 'Space Mono', monospace; */
 // extend placeholders
 %txt--body {
     @extend %ff__Roboto--400;
-    font-size: 1rem;
+    // font-size: 1rem;
 }
 %txt--title {
     @extend %ff__SpaceMono--700;
