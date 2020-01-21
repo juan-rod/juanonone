@@ -1,2 +1,2 @@
 # juanonone
-site for teaching material
+List of resources to accompany the Intro to Web course at Austin Coding Academy
