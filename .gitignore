@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+public/.DS_Store
+public/assets/.DS_Store
+src/styles/.DS_Store
