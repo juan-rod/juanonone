@@ -1,5 +1,5 @@
-{
-  "1" : [
+{ 
+  "resources" : [
     {
       "title": "CSS Selectors",
       "link": "https://flaviocopes.com/css-selectors/",
@@ -34,9 +34,7 @@
       "title": "why how and when to use semantic html and aria",
       "link": "https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria",
       "tags": [ "week1", "css", "html" ]
-    }
-  ],
-  "2" : [
+    },
     {
       "title": "web design for beginners",
       "link": "https://webflow.com/blog/web-design-for-beginners",
@@ -71,9 +69,7 @@
       "title": "beginners guide to mobile web development",
       "link": "https://medium.com/beginners-guide-to-mobile-web-development/media-queries-54a1a463356f",
       "tags": [ "week2", "media-queries" ]
-    }
-  ],
-  "misc" : [
+    },
     {
       "title": "10x your productivity by creating a process",
       "link": "https://www.freecodecamp.org/news/10x-your-productivity-by-creating-a-process/",
