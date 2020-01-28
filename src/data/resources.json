@@ -73,6 +73,53 @@
       "tags": [ "week2", "media-queries" ]
     }
   ],
+  "3" : [
+    {
+      "title": "ultimate flexbox cheatsheet",
+      "link": "https://www.sketchingwithcss.com/samplechapter/cheatsheet.html",
+      "tags": [ "css", "flex", "layouts"]
+    },
+    {
+      "title": "creating a sticky footer with flexbox",
+      "link": "https://www.gomasuga.com/blog/creating-a-sticky-footer-with-flexbox",
+      "tags": [ "css", "flex", "layouts"]
+    },
+    {
+      "title": "how to build a responsive navigation bar with flexbox",
+      "link": "https://webdesign.tutsplus.com/tutorials/how-to-build-a-responsive-navigation-bar-with-flexbox--cms-33535",
+      "tags": [ "css", "flex", "layouts"]
+    },
+    {
+      "title": "css grid starter layouts",
+      "link": "https://css-tricks.com/snippets/css/css-grid-starter-layouts/",
+      "tags": [ "css", "grid", "layouts"]
+    },
+    {
+      "title": "flexible sized grids with auto fill and minmax",
+      "link": "https://rachelandrew.co.uk/archives/2016/04/12/flexible-sized-grids-with-auto-fill-and-minmax/",
+      "tags": [ "css", "grid", "layouts"]
+    },
+    {
+      "title": "grid by example",
+      "link": "https://gridbyexample.com/examples/",
+      "tags": [ "css", "grid", "layouts"]
+    },
+    {
+      "title": "css grid demos on codepen",
+      "link": "https://codepen.io/collection/XRRJGq/",
+      "tags": [ "css", "grid", "codepen"]
+    },
+    {
+      "title": "flexible data tables with css grid",
+      "link": "https://adamlynch.com/flexible-data-tables-with-css-grid",
+      "tags": [ "css", "grid"]
+    },
+    {
+      "title": "Digging Into The Display Property",
+      "link": "https://www.smashingmagazine.com/2019/04/display-two-value/",
+      "tags": [ "css", "grid", "display", "flex"]
+    }
+  ],
   "misc" : [
     {
       "title": "10x your productivity by creating a process",
@@ -108,6 +155,36 @@
       "title": "Color Themes",
       "link": "https://color.adobe.com/explore",
       "tags": [ "css", "color" ]
+    },
+    {
+      "title": "Cool Backgrounds",
+      "link": "https://coolbackgrounds.io/",
+      "tags": [ "css", "color", "backgrounds" ]
+    },
+    {
+      "title": "Gradient Lab",
+      "link": "https://gradientlab.space/",
+      "tags": [ "css", "color", "backgrounds", "gradients"]
+    },
+    {
+      "title": "CSS Gradient",
+      "link": "https://cssgradient.io/",
+      "tags": [ "css", "color", "backgrounds", "gradients"]
+    },
+    {
+      "title": "Color Hunt",
+      "link": "https://colorhunt.co/",
+      "tags": [ "css", "color", "backgrounds", "themes"]
+    },
+    {
+      "title": "SVG Backgrounds",
+      "link": "https://www.svgbackgrounds.com/",
+      "tags": [ "css", "color", "backgrounds", "svg"]
+    },
+    {
+      "title": "Color Wise",
+      "link": "https://colorwise.io/",
+      "tags": [ "css", "color", "themes"]
     }
   ]
 }
